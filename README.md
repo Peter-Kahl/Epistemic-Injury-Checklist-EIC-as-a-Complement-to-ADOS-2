@@ -8,7 +8,7 @@ _(Policy and clinical discussion note)_
 
 by Peter Kahl, 2025-12-29
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17847525-blue.svg)](https://doi.org/10.5281/zenodo.17847525) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18086331-blue.svg)](https://doi.org/10.5281/zenodo.18086331) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ## Abstract
 
