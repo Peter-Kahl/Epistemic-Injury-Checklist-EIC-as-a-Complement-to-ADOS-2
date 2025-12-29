@@ -1,16 +1,14 @@
-# Epistemic Injury Checklist (EIC) as a Complement to ADOS-2
+![Epistemic Injury Checklist (EIC) as a Complement to ADOS-2](https://github.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2/blob/main/title_eic_ados2.jpg?raw=true)
 
 ### Supporting Differential Formulation and Triage in Autism and ADHD Assessment Pathways
 
--(Policy and clinical discussion note)_
+_(Policy and clinical discussion note)_
 
 ---
 
 by Peter Kahl, 2025-12-29
 
 [![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17847525-blue.svg)](https://doi.org/10.5281/zenodo.17847525) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
-
-![](https://github.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2/blob/main/title_eic_ados2.jpg?raw=true)
 
 ## Abstract
 
