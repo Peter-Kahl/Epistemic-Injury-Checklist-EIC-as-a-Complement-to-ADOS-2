@@ -30,7 +30,7 @@ epistemic injury; autism assessment; adhd assessment; ados-2; differential diagn
 
 ## Cite this work
 
-Kahl, P. (2025). _Epistemic Injury Checklist (EIC) as a Complement to ADOS-2: Supporting Differential Formulation and Triage in Autism and ADHD Assessment Pathways_ (Policy and clinical discussion note, Version 1.0). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2 DOI: https://doi.org/10.5281/zenodo.18086331
+- Kahl, P. (2025). _Epistemic Injury Checklist (EIC) as a Complement to ADOS-2: Supporting Differential Formulation and Triage in Autism and ADHD Assessment Pathways_ (Policy and clinical discussion note, Version 1.0). Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2 DOI: https://doi.org/10.5281/zenodo.18086331
 
 ## Publisher & Licence
 
@@ -38,3 +38,8 @@ v1.0 published in London by Lex et Ratio Ltd, 2025-12-29.
 
 © 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
 Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+
+## Key related documents
+
+- Kahl, P. (2025). [_Epistemic trauma and the architecture of family systems: Clinical recognition, differential diagnosis, and developmental repair_](https://github.com/Peter-Kahl/Epistemic-Trauma-and-the-Architecture-of-Family-Systems). Lex et Ratio Ltd. https://doi.org/10.5281/zenodo.17696448
+- Kahl, P. (2025). [_The Epistemic Injury Checklist (EIC): A framework for differential diagnosis of epistemic trauma, ASD, ADHD, and shutdown profiles_](https://github.com/Peter-Kahl/The-Epistemic-Injury-Checklist-EIC). Lex et Ratio Ltd. https://doi.org/10.5281/zenodo.17847525
