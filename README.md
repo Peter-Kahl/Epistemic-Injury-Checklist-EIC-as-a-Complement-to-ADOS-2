@@ -12,13 +12,17 @@ by Peter Kahl, 2025-12-29
 
 ## Abstract
 
-This repository hosts a policy and clinical discussion paper introducing the Epistemic Injury Checklist (EIC) as a supplementary formulation and triage aid to complement ADOS-2 in autism and ADHD assessment pathways. The EIC addresses a recognised gap in behavioural diagnostic tools by focusing on developmental and relational conditions that disrupt an individual’s capacity to safely express, test, and trust their own perceptions—patterns that can converge with ASD or ADHD presentations across childhood and adulthood.
+Increasing demand for autism and ADHD assessments has led to growing reliance on standardised behavioural instruments such as ADOS-2 within NHS, private, and third-sector diagnostic pathways. While these tools are essential, well-validated, and NICE-aligned, they are not designed to distinguish neurodevelopmental conditions from behaviour patterns arising from chronic relational inhibition, trauma adaptation, masking, or disrupted epistemic environments. Under conditions of service pressure and time-constrained assessment, such patterns can converge behaviourally with autism or ADHD presentations across both childhood and adulthood.
 
-The paper is addressed to clinicians, multidisciplinary teams, service leads, commissioners, and policy professionals working within NHS, private, and third-sector neurodevelopmental services. It is intended to support differential formulation, reduce diagnostic ambiguity, and inform proportionate intervention and service design, while remaining fully aligned with NICE-based assessment processes.
+This repository hosts a policy and clinical discussion paper introducing the Epistemic Injury Checklist (EIC) as a supplementary formulation and triage aid intended to complement, not replace, existing diagnostic instruments. The EIC focuses on identifying markers of epistemic injury—developmental disruptions in an individual’s capacity to safely express, test, and trust their own perceptions—which may shape presentation, coping strategies, and engagement with assessment contexts.
+
+The paper clarifies the conceptual relationship between EIC and ADOS-2, outlines practical use cases across referral triage, developmental history-taking, multidisciplinary team formulation, and post-assessment support planning, and situates EIC explicitly within NICE-aligned pathways. It argues that incorporating an explicit epistemic–developmental formulation layer may improve differential assessment, reduce diagnostic ambiguity, support more proportionate intervention, and inform service design under conditions of rising demand and constrained capacity.
+
+The paper is addressed to clinicians, multidisciplinary teams, service leads, commissioners, educators, and policy professionals involved in autism and ADHD assessment pathways, and is intended to support reflective practice, formulation quality, and system-level decision-making rather than to provide diagnostic guidance.
 
 ## Keywords
 
-epistemic injury; autism assessment; adhd assessment; ados-2; differential diagnosis; clinical formulation; diagnostic pathways; triage; neurodevelopmental services; mental health policy; clinical governance; nice guidelines
+epistemic injury; autism assessment; adhd assessment; ados-2; differential diagnosis; clinical formulation; diagnostic pathways; triage; developmental history; multidisciplinary teams; neurodevelopmental services; mental health policy; clinical governance; nice guidelines
 
 ## Download
 
