@@ -41,5 +41,5 @@ Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
 
 ## Key related documents
 
-- Kahl, P. (2025). [_Epistemic trauma and the architecture of family systems: Clinical recognition, differential diagnosis, and developmental repair_](https://github.com/Peter-Kahl/Epistemic-Trauma-and-the-Architecture-of-Family-Systems). Lex et Ratio Ltd. https://doi.org/10.5281/zenodo.17696448
-- Kahl, P. (2025). [_The Epistemic Injury Checklist (EIC): A framework for differential diagnosis of epistemic trauma, ASD, ADHD, and shutdown profiles_](https://github.com/Peter-Kahl/The-Epistemic-Injury-Checklist-EIC). Lex et Ratio Ltd. https://doi.org/10.5281/zenodo.17847525
+- Kahl, P. (2025). [_Epistemic trauma and the architecture of family systems: Clinical recognition, differential diagnosis, and developmental repair_](https://github.com/Peter-Kahl/Epistemic-Trauma-and-the-Architecture-of-Family-Systems). Lex et Ratio Ltd. DOI:10.5281/zenodo.17696448
+- Kahl, P. (2025). [_The Epistemic Injury Checklist (EIC): A framework for differential diagnosis of epistemic trauma, ASD, ADHD, and shutdown profiles_](https://github.com/Peter-Kahl/The-Epistemic-Injury-Checklist-EIC). Lex et Ratio Ltd. DOI:10.5281/zenodo.17847525
