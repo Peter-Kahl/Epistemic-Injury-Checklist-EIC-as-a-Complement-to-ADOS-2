@@ -35,7 +35,7 @@ epistemic injury; autism assessment; adhd assessment; ados-2; differential diagn
 
 ## Publisher & Licence
 
-v1.0 published in London by Lex et Ratio Ltd, 2025-12-29.
+v1.0 published in London by Lex et Ratio Ltd, 2025-12-29.\
 v1.1 published by Lex et Ratio Ltd, 2025-12-30.
 
 © 2025 Lex et Ratio Ltd. The author asserts the moral right to be identified as the author of this work and to object to its derogatory treatment. Licensed under Creative Commons BY-NC-ND 4.0. You may share this work for non-commercial purposes with attribution and without modification.\
