@@ -26,7 +26,8 @@ epistemic injury; autism assessment; adhd assessment; ados-2; differential diagn
 
 ## Download
 
-- [Download PDF](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2/master/Kahl_P_Policy_Note_EIC_ADOS-2_2025-12-29.pdf) ✅ _latest_
+- [Version 1.1](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2/master/Kahl_P_Policy_Note_EIC_ADOS-2_v1_1_2025-12-30.pdf) ✅ _latest_
+- [Version 1.0](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Injury-Checklist-EIC-as-a-Complement-to-ADOS-2/master/Kahl_P_Policy_Note_EIC_ADOS-2_2025-12-29.pdf)
 
 ## Cite this work
 
